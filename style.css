@@ -67,7 +67,7 @@ p {
     font-size: 16px;
 }
 
-/* Hero Style Begins */
+/* Hero Style Begins - Be Aware - Hero Image Here */
 
 .hero {
     height: 800px;
@@ -114,8 +114,6 @@ p {
     color: #ffffff;
 }
 
-/* Benefits Images */
-
 .benefit-pictures img {
     display: block;
     margin: 10px auto;
@@ -123,6 +121,8 @@ p {
 }
 
 /* Benefits Margin Style Ends */
+
+/* Purpose Images Style Begins */
 
 .purpose {
     margin-bottom: 20px;
@@ -137,6 +137,8 @@ p {
     max-height: 200px;
 }
 
+/* Purpose Images Style Ends */
+
 /* Footer Style Begins */
 
 .footer {
@@ -150,4 +152,4 @@ p {
     font-size: 20px;
 }
 
-/* Footer Style Begins */
+/* Footer Style Ends */
